@@ -1,33 +1,43 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Head Delegate - University of Ottawa",
+            "subtitle": "CUSEC: Canadian University Software Engineering Conference",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Drive promotional strategies to increase student involvement and enthusiasm for the CUSEC conference",
+                "Coordinate travel logistics and accommodations for a group of over **50** students attending the conference",
+                "Facilitate the procurement of financing from the school administration to facilitate student attendance."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "04/2024 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "VP of Philanthropy",
+            "subtitle": "Computer Science Student Association - University of Ottawa",
             "workDescription": [
-                "Worked on abc."
+                "Plan and host on and off-campus student events, occasionally working with other faculty organizations, to raise hundreds of dollars for a variety of honourable causes; promoting volunteer work and bettering our community",
+                "Developed promotional Instagram media content using **Figma, Canva, and Adobe Fresco** to encourage involvement",
+                "Explored ways to connect with the community through cold emails to partner on fundraising and sponsorship."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "03/2023 – Present"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Marketing/Design Coordinator",
+            "subtitle": "uOttaHack - University of Ottawa",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Communicate with faculties and student organizations to set up campus events hosted for hundreds of students",
+                "Manage social media and design content using illustrating platforms, ensuring the **2, 000** followers are informed",
+                "Maintain organizational brand image and communicate with similar organizations for promotion and collaboration."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "07/2023 – 03/2024"
+        },
+        {
+            "title": "Digital Marketing Intern",
+            "subtitle": "MRKT360",
+            "workDescription": [
+                "Developed projects and discussed marketing strategies with managers to encourage search engine optimization",
+                "Earned media knowledge from first-hand experience, as well as, certifications through Google and internal courses."
+            ],
+            "dateText": "07/2021 – 08/2021"
         }
     ]
 }
