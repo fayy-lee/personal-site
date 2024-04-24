@@ -9,9 +9,8 @@ import Header from './Header';
 import FallbackSpinner from './FallbackSpinner';
 import '../css/education.css';
 
-function Education(props) {
+function Education({ header }) {
   const theme = useContext(ThemeContext);
-  const { header } = props;
   const [data, setData] = useState(null);
   const [width, setWidth] = useState('50vw');
   const [mode, setMode] = useState('VERTICAL_ALTERNATING');
@@ -24,19 +23,22 @@ function Education(props) {
       .then((res) => setData(res))
       .catch((err) => err);
 
-    if (window?.innerWidth < 576) {
-      setMode('VERTICAL');
-    }
+    const handleResize = () => {
+      if (window.innerWidth < 576) {
+        setMode('VERTICAL');
+        setWidth('90vw');
+      } else if (window.innerWidth >= 576 && window.innerWidth < 768) {
+        setWidth('90vw');
+      } else if (window.innerWidth >= 768 && window.innerWidth < 1024) {
+        setWidth('75vw');
+      } else {
+        setWidth('50vw');
+      }
+    };
 
-    if (window?.innerWidth < 576) {
-      setWidth('90vw');
-    } else if (window?.innerWidth >= 576 && window?.innerWidth < 768) {
-      setWidth('90vw');
-    } else if (window?.innerWidth >= 768 && window?.innerWidth < 1024) {
-      setWidth('75vw');
-    } else {
-      setWidth('50vw');
-    }
+    window.addEventListener('resize', handleResize);
+    handleResize(); // Initial call to set mode and width
+    return () => window.removeEventListener('resize', handleResize);
   }, []);
 
   return (
@@ -62,13 +64,15 @@ function Education(props) {
                 }}
               >
                 <div className="chrono-icons">
-                  {data.education.map((education) => (education.icon ? (
-                    <img
-                      key={education.icon.src}
-                      src={education.icon.src}
-                      alt={education.icon.alt}
-                    />
-                  ) : null))}
+                  {data.education.map((education) => (
+                    education.icon ? (
+                      <img
+                        key={education.icon.src}
+                        src={education.icon.src}
+                        alt={education.icon.alt}
+                      />
+                    ) : null
+                  ))}
                 </div>
               </Chrono>
             </Container>
