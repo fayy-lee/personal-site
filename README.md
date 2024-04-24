@@ -14,8 +14,8 @@
 ⚡️ Fully Responsive
 
 ## Demo
-
-To come...
+Current state: https://personal-site-alpha-lake-99.vercel.app/
+Changes to come...
 
 <!--To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**-->
 
