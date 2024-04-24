@@ -10,6 +10,7 @@
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
+⚡️ Light and Dark mode feature\
 ⚡️ Made with React\
 ⚡️ Fully Responsive
 
