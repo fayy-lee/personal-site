@@ -22,4 +22,4 @@ Changes to come...
 
 ## Special thanks to
 
-- [Mayank Agarwal](https://mayankagarwal09.com) for guidance and inspiration 
+- [Mayank Agarwal](https://mayankagarwal09.com](https://github.com/mayankagarwal09) for guidance and inspiration 
