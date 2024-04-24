@@ -20,6 +20,6 @@ Changes to come...
 
 <!--To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**-->
 
-## Inspired by
+## Special thanks to
 
-- [Mayank Agarwal](https://mayankagarwal09.com)
+- [Mayank Agarwal](https://github.com/mayankagarwal09) for guidance and inspiration 
