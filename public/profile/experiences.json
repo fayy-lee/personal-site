@@ -1,6 +1,15 @@
 {
     "experiences": [
         {
+            "title": "Machine Vision Technical Writer Intern",
+            "subtitle": "Zebra Technologies",
+            "workDescription": [
+                "Write and edit technical documentation, leveraging programming knowledge, primarily in C, C++, and C#",
+                "Collaborate with developers to update and refine user and function references for the Aurora Imaging Library."
+            ],
+            "dateText": "09/2024 – 012/2024"
+        },
+        {
             "title": "Head Delegate - University of Ottawa",
             "subtitle": "CUSEC: Canadian University Software Engineering Conference",
             "workDescription": [
