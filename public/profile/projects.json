@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/yatzy.png",
+            "image" : "images/projects/yatzy.jpg",
             "title": "Yatzy Game",
             "bodyText": "-  Developed a single-player Yatzy game using HTML, CSS, JavaScript, and PHP, integrating server-side functionality to manage game state and calculate scores\n -  Implemented AJAX communication between the frontend and backend, allowing dynamic updates of game status and leaderboard scores, enhancing user interactivity and experience.",
             "links": [
