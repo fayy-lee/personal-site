@@ -1,6 +1,27 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/yatzy.png",
+            "title": "Yatzy Game",
+            "bodyText": "-  Developed a single-player Yatzy game using HTML, CSS, JavaScript, and PHP, integrating server-side functionality to manage game state and calculate scores\n -  Implemented AJAX communication between the frontend and backend, allowing dynamic updates of game status and leaderboard scores, enhancing user interactivity and experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/fayy-lee/yatzygame"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://drive.google.com/file/d/1zge0nfAPaJNphTxNmAe59bHPfTh-jbwb/view"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "PHP"
+            ]
+        },
+        {
             "image" : "images/projects/portfolio-poster.png",
             "title": "Hotel Management System",
             "bodyText": "-  e-hotel web application with a database that performs administrative actions based on the user role\n -  Dynamic, users and admin can easily change data.",

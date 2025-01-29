@@ -1,13 +1,31 @@
 {
     "experiences": [
         {
+            "title": "RPA Intern",
+            "subtitle": "Scotiabank",
+            "workDescription": [
+                "Monitored 55+ robotic process automation (RPA) workflows using Blue Prism to ensure reliability and performance",
+                "Partnered with business teams to identify repetitive, rule-based tasks suitable for automation, enhancing efficiency."
+            ],
+            "dateText": "01/2025 – 04/2025"
+        },
+        {
             "title": "Machine Vision Technical Writer Intern",
             "subtitle": "Zebra Technologies",
             "workDescription": [
-                "Write and edit technical documentation, leveraging programming knowledge, primarily in C, C++, and C#",
-                "Collaborate with developers to update and refine user and function references for the Aurora Imaging Library."
+                "Developed and refined 100+ pages of technical documentation in Oxygen XML Editor, applying C expertise",
+                "Worked closely with developers to update user guides and function references for the Aurora Imaging Library."
             ],
             "dateText": "09/2024 – 12/2024"
+        },
+        {
+            "title": "Sponsorship Coordinator",
+            "subtitle": "uOttaHack - University of Ottawa",
+            "workDescription": [
+                "Manage sponsorship outreach and negotiation, partnering with industry leaders and other diverse sponsors",
+                "Cultivate relationships with a wide network of over 30 sponsors, facilitating coordination for successful execution." 
+            ],
+            "dateText": "04/2024 – 01/2025"
         },
         {
             "title": "Head Delegate - University of Ottawa",
@@ -17,7 +35,7 @@
                 "Coordinate travel logistics and accommodations for a group of over **50** students attending the conference",
                 "Facilitate the procurement of financing from the school administration to facilitate student attendance."
             ],
-            "dateText": "04/2024 – Present"
+            "dateText": "04/2024 – 01/2025"
         },
         {
             "title": "VP of Philanthropy",
@@ -28,25 +46,6 @@
                 "Explored ways to connect with the community through cold emails to partner on fundraising and sponsorship."
             ],
             "dateText": "03/2023 – Present"
-        },
-        {
-            "title": "Marketing/Design Coordinator",
-            "subtitle": "uOttaHack - University of Ottawa",
-            "workDescription": [
-                "Communicate with faculties and student organizations to set up campus events hosted for hundreds of students",
-                "Manage social media and design content using illustrating platforms, ensuring the **2, 000** followers are informed",
-                "Maintain organizational brand image and communicate with similar organizations for promotion and collaboration."
-            ],
-            "dateText": "07/2023 – 03/2024"
-        },
-        {
-            "title": "Digital Marketing Intern",
-            "subtitle": "MRKT360",
-            "workDescription": [
-                "Developed projects and discussed marketing strategies with managers to encourage search engine optimization",
-                "Earned media knowledge from first-hand experience, as well as, certifications through Google and internal courses."
-            ],
-            "dateText": "07/2021 – 08/2021"
         }
     ]
 }
