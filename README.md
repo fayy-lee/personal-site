@@ -15,7 +15,7 @@
 ⚡️ Fully Responsive
 
 ## Demo
-Current state: https://www.faylee.me/
+Current state: https://www.faylee.me/ & https://www.faylee.tech/
 Changes to come...
 
 <!--To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**-->
