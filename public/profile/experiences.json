@@ -1,11 +1,20 @@
 {
     "experiences": [
         {
+            "title": "Global Customer Care Business Intelligence Intern",
+            "subtitle": "Ciena",
+            "workDescription": [
+                "Supporting the development and reporting of strategic and operational metrics for the Global Customer Care team",
+                "Using Python, SQL, and Excel to support data validation, requirements gathering, and small-scale reporting."
+            ],
+            "dateText": "01/2026 – 04/2026"
+        },
+        {
             "title": "RPA Intern",
             "subtitle": "Scotiabank",
             "workDescription": [
                 "Monitored 55+ robotic process automation (RPA) workflows using Blue Prism to ensure reliability and performance",
-                "Partnered with business teams to identify repetitive, rule-based tasks suitable for automation, enhancing efficiency."
+                "Using Python, SQL, and Excel to support data validation, requirements gathering, and small-scale reporting."
             ],
             "dateText": "01/2025 – 04/2025"
         },
